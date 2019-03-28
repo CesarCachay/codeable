@@ -112,10 +112,10 @@ $offices = (10..50).map do |num|
 end
 
 # limit num teachers
-$num_teachers = 100
+$num_teachers = 50
 
 # limit num students
-$num_students = 200
+$num_students = 500
 
 # limit num students
-$num_registers = 500
+$num_registers = 2000
